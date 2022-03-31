@@ -45,20 +45,7 @@ This project goals to consume the GitHub API using the ReactJS language, providi
 
 ```bash
 
-# Clone this repository
-$ git clone https://github.com/guicardozodasilva/github-api-search.git
-
-# Open the file index.html
-
-```
-
-<p>or</>
-  
-```bash
-
-# Open the link below:
-
-https://guicardozodasilva.github.io/github-api-search/
+# Coming soon
 
 ```
 
@@ -71,7 +58,6 @@ The following tools were used in building the project:
 - React
 - JavaScript
 - Node.js
-- Axios
 - CSS
 - HTML
 
