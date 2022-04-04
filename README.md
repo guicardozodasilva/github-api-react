@@ -20,7 +20,6 @@
 
 <p align="center">
  <a href="#-about-project">About</a> •
-  <a href="#-application-demo">App Demo</a> •
  <a href="#-how-to-run-the-project">How to run the project</a> • 
  <a href="#-technologies">Technologies</a> • 
  <a href="#-author">Author</a> • 
@@ -30,14 +29,6 @@
 ## 💻 About Project
 
 This project goals to consume the GitHub API using the ReactJS language, providing profile, repository and starred repository information of the user's typed.
-
----
-
-## ✅ Application Demo
-
-<h1 align="center">
-  <img alt="ApplicationDemo" title="#ApplicationDem" src="./assets/github api search.gif" />
-</h1>
 
 ---
 
